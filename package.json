@@ -1,6 +1,6 @@
 {
   "name": "contactmanager",
-  "homepage": "https://jaouade.github.io/contactmanager",
+  "homepage": "https://jaouade.github.io/contactmanager_redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
